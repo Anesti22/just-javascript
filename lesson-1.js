@@ -2,6 +2,7 @@
 
 let a = 10;
 let b = a;
+let c = b;
 a = 0;
 
 // Coding, Fast and Slow
